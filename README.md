@@ -3,6 +3,8 @@
 
 O projeto MeLink é um estudo de caso de desenvolvimento front-end utilizando React, inspirado na plataforma Linktree. O objetivo principal é criar uma interface responsiva e intuitiva para centralizar e apresentar links importantes de forma organizada e visualmente atraente.
 
+![image](https://github.com/pedrobits/MeLink/assets/70610289/3313cd8d-e171-488c-96d6-362037f104e6)
+
 ## Recursos
 
 - **Layout Responsivo:** Implementação de um design que se adapta de forma elegante a uma variedade de dispositivos, proporcionando uma experiência consistente em diferentes tamanhos de tela.
